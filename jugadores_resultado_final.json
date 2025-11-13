@@ -1,0 +1,486 @@
+[
+  {
+    "CODIGO_PAIS": "1",
+    "NOMBRE_PAIS": "Alemania",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Miroslav Klose",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "10",
+    "NOMBRE_PAIS": "Corea del Sur",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Cha Bum-Kun",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "11",
+    "NOMBRE_PAIS": "Costa de Marfil",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Didier Drogba",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "12",
+    "NOMBRE_PAIS": "Egipto",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Hossam Hassan",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "13",
+    "NOMBRE_PAIS": "Emiratos Arabes Unidos",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Ali Mabkhout",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "14",
+    "NOMBRE_PAIS": "España",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "David Villa",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "15",
+    "NOMBRE_PAIS": "Estados Unidos",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Clint Dempsey",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      },
+      {
+        "NOMBRE_JUGADOR": "Landon Donovan",
+        "RANKING_ANTERIOR": 2,
+        "NUEVO_RANKING": 2
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "16",
+    "NOMBRE_PAIS": "Federación Malaya/ Malasia",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Abdul Ghani Minhat",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "17",
+    "NOMBRE_PAIS": "Guatemala",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Carlos Ruiz Gutiérrez",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "18",
+    "NOMBRE_PAIS": "Honduras",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Carlos Pavón",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "19",
+    "NOMBRE_PAIS": "Hungría",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Sándor Kocsis",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      },
+      {
+        "NOMBRE_JUGADOR": "Imre Schlosser",
+        "RANKING_ANTERIOR": 2,
+        "NUEVO_RANKING": 2
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "2",
+    "NOMBRE_PAIS": "Alemania Federal",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Gerd Müller",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "20",
+    "NOMBRE_PAIS": "Hungría/ España",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Ferenc Puskás",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "21",
+    "NOMBRE_PAIS": "India",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Sunil Chhetri",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "22",
+    "NOMBRE_PAIS": "Indonesia",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Abdul Kadir",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      },
+      {
+        "NOMBRE_JUGADOR": "Iswadi Idris",
+        "RANKING_ANTERIOR": 2,
+        "NUEVO_RANKING": 2
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "23",
+    "NOMBRE_PAIS": "Irak",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Hussein Saeed",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      },
+      {
+        "NOMBRE_JUGADOR": "Ahmed Radhi",
+        "RANKING_ANTERIOR": 2,
+        "NUEVO_RANKING": 2
+      },
+      {
+        "NOMBRE_JUGADOR": "Younis Mahmoud",
+        "RANKING_ANTERIOR": 3,
+        "NUEVO_RANKING": 3
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "24",
+    "NOMBRE_PAIS": "Irán",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Ali Daei",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "25",
+    "NOMBRE_PAIS": "Irlanda",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Robbie Keane",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "26",
+    "NOMBRE_PAIS": "Japón",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Kunishige Kamamoto",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      },
+      {
+        "NOMBRE_JUGADOR": "Kazuyoshi Miura",
+        "RANKING_ANTERIOR": 2,
+        "NUEVO_RANKING": 2
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "27",
+    "NOMBRE_PAIS": "Kuwait",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Jasem Al-Huwaidi",
+        "RANKING_ANTERIOR": 2,
+        "NUEVO_RANKING": 1
+      },
+      {
+        "NOMBRE_JUGADOR": "Bashar Abdullah",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 2
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "28",
+    "NOMBRE_PAIS": "Malasia",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Mokhtar Dahari",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "29",
+    "NOMBRE_PAIS": "Malawi",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Kinnah Phiri",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "3",
+    "NOMBRE_PAIS": "Alemania Oriental",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Joachim Streich",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "30",
+    "NOMBRE_PAIS": "Maldivas",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Ali Ashfaq",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "31",
+    "NOMBRE_PAIS": "Polonia",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Robert Lewandowski",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "32",
+    "NOMBRE_PAIS": "Portugal",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Cristiano Ronaldo",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "33",
+    "NOMBRE_PAIS": "República Checa",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Jan Koller",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "34",
+    "NOMBRE_PAIS": "Singapur",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Fandi Ahmad",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "35",
+    "NOMBRE_PAIS": "Suecia",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Zlatan Ibrahimović",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "36",
+    "NOMBRE_PAIS": "Tailandia",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Piyapong Pue-on",
+        "RANKING_ANTERIOR": 2,
+        "NUEVO_RANKING": 1
+      },
+      {
+        "NOMBRE_JUGADOR": "Kiatisuk Senamuang",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 2
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "37",
+    "NOMBRE_PAIS": "Trinidad y Tobago",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Stern John",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "38",
+    "NOMBRE_PAIS": "Uruguay",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Luis Suárez",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "39",
+    "NOMBRE_PAIS": "Zambia",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Godfrey Chitalu",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "4",
+    "NOMBRE_PAIS": "Arabia Saudita",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Majed Abdullah",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "5",
+    "NOMBRE_PAIS": "Argentina",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Lionel Messi",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "6",
+    "NOMBRE_PAIS": "Bélgica",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Romelu Lukaku",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "7",
+    "NOMBRE_PAIS": "Bosnia y Herzegovina",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Edin Džeko",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "8",
+    "NOMBRE_PAIS": "Brasil",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Pelé",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      },
+      {
+        "NOMBRE_JUGADOR": "Romário",
+        "RANKING_ANTERIOR": 4,
+        "NUEVO_RANKING": 2
+      },
+      {
+        "NOMBRE_JUGADOR": "Ronaldo Nazario",
+        "RANKING_ANTERIOR": 3,
+        "NUEVO_RANKING": 3
+      },
+      {
+        "NOMBRE_JUGADOR": "Neymar",
+        "RANKING_ANTERIOR": 2,
+        "NUEVO_RANKING": 4
+      }
+    ]
+  },
+  {
+    "CODIGO_PAIS": "9",
+    "NOMBRE_PAIS": "Camerún",
+    "JUGADORES_ESTRELLA": [
+      {
+        "NOMBRE_JUGADOR": "Samuel Eto'o",
+        "RANKING_ANTERIOR": 1,
+        "NUEVO_RANKING": 1
+      }
+    ]
+  }
+]
